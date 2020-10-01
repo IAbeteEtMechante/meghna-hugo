@@ -1,11 +1,14 @@
-- id: blogTitle
-  translation: Latest Post
+---
 - id: readMore
   translation: Read more
+- id: blogTitle
+  translation: Latest Post
 - id: viewAllPost
   translation: View All Post
 - id: share
   translation: Share
+- id: pricing
+  translation: Pricing
 - id: aboutAuthor
   translation: About author
 - id: authorsPosts
@@ -20,8 +23,6 @@
   translation: Portfolio
 - id: team
   translation: Team
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
 - id: contact
