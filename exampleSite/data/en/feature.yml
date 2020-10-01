@@ -4,22 +4,23 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: We Believe That You Are Your Best Accessory.
-  content: THIS IS WHY WE OFFER A FULL SERVICE EXPERIENCE INCLUDING HELP FROM AN EXPERIENCE
-    WRITER, TIPS FROM THE COMMUNITY, STEP BY STEP PROCESS TO WRITE YOUR OWN BOOK.
+  content: |-
+    THIS IS WHY WE OFFER A FULL SERVICE EXPERIENCE INCLUDING HELP FROM AN EXPERIENCE WRITER, TIPS FROM THE COMMUNITY, STEP BY STEP PROCESS TO WRITE YOUR OWN BOOK.
+    We are suitable for:
   feature_item:
-  - title: SEO Optimized
+  - title: Inexperienced Writers
     icon: ti-world
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
+  - title: Bloggers
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: SEO Optimized
+  - title: Amateur Author
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Easy Customization
+  - title: Everyone
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
