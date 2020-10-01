@@ -20,11 +20,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 6
-[[menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
