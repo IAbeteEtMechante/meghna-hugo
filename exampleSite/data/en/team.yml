@@ -34,8 +34,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Sakura
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
+    image_webp: ''
+    image: "/images/untitled.jpeg"
     designation: Branding
     content: Your brand will get huge in no time with Sakura
     social:
