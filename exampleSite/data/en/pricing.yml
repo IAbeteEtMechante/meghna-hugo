@@ -24,8 +24,8 @@ pricing:
       label: Book it
       link: "#"
   - name: Publishing
-    price: ''
-    unit: ''
+    price: "$900"
+    unit: book
     services:
     - Connect to the sales channels
     - Advertise your book
