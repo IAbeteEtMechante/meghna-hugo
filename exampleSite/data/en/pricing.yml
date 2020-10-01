@@ -23,13 +23,13 @@ pricing:
     button:
       label: Book it
       link: "#"
-  - name: Publishing and Advertising
+  - name: Publishing
     price: ''
     unit: ''
     services:
-    - ''
-    - Connect the publications and the sales channels
-    - ''
+    - Connect to the sales channels
+    - Advertise your book
+    - Get professional feedback
     button:
       label: Book it
       link: "#"
