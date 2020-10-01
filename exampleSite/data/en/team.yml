@@ -49,7 +49,7 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Mo. Kha. Alamgir
-    image_webp: "/images/b5c2a34c-6332-4c5d-94f7-6aab7b0489c3.webp"
+    image_webp: ''
     image: "/images/b5c2a34c-6332-4c5d-94f7-6aab7b0489c3.jpeg"
     designation: SEO Specialist
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
