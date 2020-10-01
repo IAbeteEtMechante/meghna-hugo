@@ -5,16 +5,17 @@ pricing:
   pricing_table:
   - name: Coaching
     price: "$149"
-    unit: ''
+    unit: book
     services:
     - Follow writing track
     - Set story achitecture
+    - ''
     button:
       label: Book it
       link: "#"
   - name: Editorial
     price: Starting at $199
-    unit: ''
+    unit: book
     services:
     - Check writing style
     - Grammar proof
@@ -26,7 +27,9 @@ pricing:
     price: ''
     unit: ''
     services:
+    - ''
     - Connect the publications and the sales channels
+    - ''
     button:
       label: Book it
       link: "#"
