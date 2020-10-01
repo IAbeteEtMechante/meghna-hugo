@@ -14,7 +14,7 @@ pricing:
       label: Book it
       link: "#"
   - name: Editorial
-    price: Starting at $199
+    price: "$199"
     unit: book
     services:
     - Check writing style
