@@ -36,9 +36,8 @@ team:
   - name: Sakura
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Branding
+    content: Your brand will get huge in no time with Sakura
     social:
     - icon: ti-facebook
       link: "#"
