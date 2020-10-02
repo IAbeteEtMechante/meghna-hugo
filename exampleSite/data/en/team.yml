@@ -37,7 +37,7 @@ team:
     image_webp: ''
     image: "/images/untitled.jpeg"
     designation: Branding
-    content: Your brand will get huge in no time with Sakura
+    content: Your brand will get huge in no time with Sakura.
     social:
     - icon: ti-facebook
       link: "#"
