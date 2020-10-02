@@ -51,7 +51,7 @@ team:
     image_webp: ''
     image: "/images/ppierre.jpeg"
     designation: SEO Specialist
-    content: Pierre always like to help you get more people come to your website
+    content: Pierre always like to help you get more people come to your website.
     social:
     - icon: ti-facebook
       link: "#"
