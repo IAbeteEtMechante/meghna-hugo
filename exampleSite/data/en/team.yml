@@ -7,8 +7,8 @@ team:
     image_webp: ''
     image: "/images/brian_small.png"
     designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Content creator, Market analytic strategist, Experience in online product
+      development
     social:
     - icon: ti-facebook
       link: "#"
